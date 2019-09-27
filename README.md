@@ -1,5 +1,5 @@
 # Frontend Mentor - Coding practice
-(repo-image.png)
+<img src="https://raw.githubusercontent.com/Mivandi/frontend-mentor/master/repo-image.png" alt="Repository Image">
 
 ## Welcome 👋
 
