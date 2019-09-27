@@ -9,7 +9,7 @@ This repository contains the projects that I practice to enhance front-end web d
 
 ## Live preview:
 
-* [Huddle landing page with alternating feature blocks](https://#)
+* [Huddle landing page with alternating feature blocks](https://mivandi.github.io/frontend-mentor/huddle-landing-page-with-alternating-feature-blocks-master/index.html)
 
 ## All assets and starter code from:
 
