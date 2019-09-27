@@ -16,6 +16,7 @@ body {
 
 .container-fluid {
     padding: 0 9.375%;
+    max-width: 1440px;
 }
 
 /* Typography */
@@ -89,7 +90,7 @@ a {
 }
 
 .logo-header {
-    width: 200px;
+    width: 100%;
     height: auto;
 }
 
@@ -237,7 +238,7 @@ li.footer-link {
 }
 
 .logo-header {
-    max-width: 12.5rem;
+    max-width: 8.75rem;
     height: auto;
 }
 
@@ -261,8 +262,8 @@ li.footer-link {
     -ms-user-select: none;
     user-select: none;
     background-color: #FFF;
-    padding: 1rem 2.5rem;
-    font-size: 1rem;
+    padding: 0.75rem 2.1875rem;
+    font-size: 0.75rem;
     border-radius: 99rem;
     -webkit-box-shadow: 0 0 0.625rem rgba(0, 37, 46, 0.1);
     box-shadow: 0 0 0.625rem rgba(0, 37, 46, 0.1);
@@ -285,9 +286,9 @@ li.footer-link {
     -ms-user-select: none;
     user-select: none;
     background-color: #FF52BF;
-    padding: 1.25rem 4.375rem;
+    padding: 0.75rem 2.1875rem;
     margin-top: 1.25rem;
-    font-size: 1rem;
+    font-size: 0.875rem;
     border-radius: 100rem;
     -webkit-box-shadow: 0 0 0.625rem rgba(0, 37, 46, 0.1);
     box-shadow: 0 0 0.625rem rgba(0, 37, 46, 0.1);
@@ -343,6 +344,11 @@ li.footer-link {
     }
 
     /* Images */
+    .logo-header {
+        max-width: 12.5rem;
+        height: auto;
+    }
+
     .logo-footer {
         max-width: 15rem;
         height: auto;
@@ -363,7 +369,27 @@ li.footer-link {
         -ms-user-select: none;
         user-select: none;
         background-color: #FFF;
+        padding: 1rem 2.5rem;
+        font-size: 1rem;
+        border-radius: 99rem;
+        -webkit-box-shadow: 0 0 0.625rem rgba(0, 37, 46, 0.1);
+        box-shadow: 0 0 0.625rem rgba(0, 37, 46, 0.1);
+    }
+
+    .btn-dark {
+        display: inline-block;
+        font-weight: 700;
+        color: #FFF;
+        text-align: center;
+        text-transform: capitalize;
+        vertical-align: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        background-color: #FF52BF;
         padding: 1.25rem 4.375rem;
+        margin-top: 1.25rem;
         font-size: 1rem;
         border-radius: 100rem;
         -webkit-box-shadow: 0 0 0.625rem rgba(0, 37, 46, 0.1);
