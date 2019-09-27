@@ -1,5 +1,5 @@
 # Frontend Mentor - Coding practice
-(./frontend-mentor/repo-image.png)
+(repo-image.png)
 
 ## Welcome 👋
 
