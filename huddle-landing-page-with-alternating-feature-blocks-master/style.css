@@ -194,22 +194,30 @@ li.footer-link {
     margin-bottom: 5%;
 }
 
-.social-links a {
-    position: relative;
-    float: left;
-    width: 2.5rem;
-    height: 2.5rem;
-    border: 2px solid #FFF;
-    border-radius: 100%;
-    margin-right: 0.875rem;
+.social-link-list {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    list-style: none;
 }
 
-.social-links a i {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.social-link {
+    display: inline-block;
+    width: 2.5rem;
+    height: 2.5rem;
+    color: #FFF;
+    border: 2px solid #FFF;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 1rem;
+    transition: .3s linear;
+    margin-right: 1rem;
+}
+
+.social-link:hover {
+    background-color: #FFF;
 }
 
 .copyright {
