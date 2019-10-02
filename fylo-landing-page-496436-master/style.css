@@ -132,7 +132,7 @@ section.content {
 }
 
 .testimonial-container {
-    width: 25rem;
+    width: 100%;
     padding: 1.5rem 2rem;
     background-color: #FFF;
     border-radius: 0.25rem;
@@ -390,6 +390,12 @@ footer a:hover {
         padding: 1rem 1.25rem;
         -webkit-box-shadow: 0 0 0.625rem rgba(7, 4, 57, 0.2);
         box-shadow: 0 0 0.625rem rgba(7, 4, 57, 0.2);
+    }
+
+    /* Section: Main Content */
+
+    .testimonial-container {
+        width: 25rem;
     }
 
     /* Alignment */
