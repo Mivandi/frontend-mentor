@@ -11,6 +11,8 @@ This repository contains the projects that I practice to enhance front-end web d
 
 * [Huddle landing page with alternating feature blocks](https://mivandi.github.io/frontend-mentor/huddle-landing-page-with-alternating-feature-blocks-master/index.html)
 
+* [Fylo landing page with two column layout](https://mivandi.github.io/frontend-mentor/fylo-landing-page-496436-master/index.html)
+
 ## All assets and starter code from:
 
 [Frontend Mentor](https://www.frontendmentor.io)
